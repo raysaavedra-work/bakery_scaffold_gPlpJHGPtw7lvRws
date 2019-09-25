@@ -2,7 +2,7 @@
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
-# Instructions 
+# Instructions 1
 
 Add the following item to your Dashboard products and complete the provided "order.html" form to include a Client checkout integration. Have the cancel URL return back to order form, and have the success URL direct the customer to order_success.html. 
 
