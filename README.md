@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-PROCESSING%20COMMIT:%20fbe0271f6a85b9be13ce166f226eabab28333a53-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_gPlpJHGPtw7lvRws/commit/fbe0271f6a85b9be13ce166f226eabab28333a53)
+[![Status](https://img.shields.io/badge/status-FAILED%20COMMIT:%20fbe0271f6a85b9be13ce166f226eabab28333a53-critical.svg)](https://github.com/raysaavedra-work/bakery_scaffold_gPlpJHGPtw7lvRws/commit/fbe0271f6a85b9be13ce166f226eabab28333a53)
+
 
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
